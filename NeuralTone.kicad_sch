@@ -5019,7 +5019,7 @@
     (property "Reference" "C26" (at 302.26 56.515 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "22u" (at 302.26 59.055 0)
+    (property "Value" "10u" (at 302.26 59.055 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:CP_Elec_4x5.7" (at 299.72 57.785 0)
