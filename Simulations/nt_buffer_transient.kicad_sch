@@ -1278,7 +1278,7 @@
     (property "Reference" "R8" (at 202.565 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 202.565 113.665 90)
+    (property "Value" "100" (at 202.565 113.665 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 202.565 117.348 90)
