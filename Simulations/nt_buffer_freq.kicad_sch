@@ -1533,7 +1533,7 @@
     (property "Reference" "C3" (at 146.685 106.68 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "100n" (at 146.685 109.22 90)
+    (property "Value" "150n" (at 146.685 109.22 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 150.495 112.0648 0)
