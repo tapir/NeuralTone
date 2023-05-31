@@ -4153,7 +4153,7 @@
   (symbol (lib_id "NeuralTone:USBLC6-2P6") (at 357.505 66.675 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 168e6bbf-a60a-403e-bd41-404169db385e)
-    (property "Reference" "U6" (at 356.235 71.755 0)
+    (property "Reference" "D4" (at 356.235 71.755 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "USBLC6-2P6" (at 356.235 74.295 0)
@@ -4174,7 +4174,7 @@
     (instances
       (project "NeuralTone"
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c"
-          (reference "U6") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -4718,10 +4718,10 @@
   (symbol (lib_id "NeuralTone:D_TVS_Quad") (at 77.47 201.93 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 41eb8166-fe76-4dcf-a1b2-63487fb24bfa)
-    (property "Reference" "D4" (at 69.85 200.0885 90)
+    (property "Reference" "D5" (at 69.85 200.7235 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "PESD3V3S4UD" (at 69.85 202.6285 90)
+    (property "Value" "PESD3V3S4UD" (at 69.85 203.2635 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" (at 76.073 201.93 90)
@@ -4745,7 +4745,7 @@
     (instances
       (project "NeuralTone"
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c"
-          (reference "D4") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -5151,7 +5151,7 @@
   (symbol (lib_id "NeuralTone:D_TVS_Dual") (at 233.68 141.605 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71219363-05f4-4505-9a56-841e3fd03042)
-    (property "Reference" "D3" (at 224.79 140.335 0)
+    (property "Reference" "D4" (at 224.79 140.335 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PESD5V2S2UT" (at 224.79 142.875 0)
@@ -5175,7 +5175,7 @@
     (instances
       (project "NeuralTone"
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c"
-          (reference "D3") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -5544,10 +5544,10 @@
   (symbol (lib_id "NeuralTone:D_TVS_Quad") (at 71.755 234.315 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 94542b20-bc6d-4c3f-b4cd-6a94cb502e85)
-    (property "Reference" "D7" (at 64.135 233.6165 90)
+    (property "Reference" "D6" (at 63.5 234.2515 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "PESD3V3S4UD" (at 64.135 236.1565 90)
+    (property "Value" "PESD3V3S4UD" (at 63.5 236.7915 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" (at 73.66 234.315 90)
@@ -5571,7 +5571,7 @@
     (instances
       (project "NeuralTone"
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c"
-          (reference "D7") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
