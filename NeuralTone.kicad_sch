@@ -6506,7 +6506,7 @@
     (property "Reference" "C21" (at 360.045 51.435 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "120u" (at 360.045 53.975 0)
+    (property "Value" "100u" (at 360.045 53.975 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7" (at 357.505 52.705 0)
