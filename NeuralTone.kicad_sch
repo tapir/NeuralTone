@@ -5151,7 +5151,7 @@
   (symbol (lib_id "NeuralTone:D_TVS_Dual") (at 233.68 141.605 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71219363-05f4-4505-9a56-841e3fd03042)
-    (property "Reference" "D4" (at 224.79 140.335 0)
+    (property "Reference" "D3" (at 224.79 140.335 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PESD5V2S2UT" (at 224.79 142.875 0)
@@ -5175,7 +5175,7 @@
     (instances
       (project "NeuralTone"
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c"
-          (reference "D4") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
