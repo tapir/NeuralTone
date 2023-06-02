@@ -2277,7 +2277,7 @@
     (property "Reference" "C32" (at 133.985 125.1013 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "470n" (at 133.985 127.6413 0)
+    (property "Value" "4.7u" (at 133.985 127.6413 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 130.81 126.365 0)
@@ -2294,7 +2294,7 @@
           (reference "C32") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "C33") (unit 1)
+          (reference "C25") (unit 1)
         )
       )
     )
