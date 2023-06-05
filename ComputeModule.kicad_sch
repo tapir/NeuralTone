@@ -1950,7 +1950,7 @@
           (reference "R15") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "R31") (unit 1)
+          (reference "R34") (unit 1)
         )
       )
     )
@@ -2193,7 +2193,7 @@
           (reference "R22") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "R30") (unit 1)
+          (reference "R33") (unit 1)
         )
       )
     )
