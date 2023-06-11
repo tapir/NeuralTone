@@ -1255,6 +1255,10 @@
     (stroke (width 0) (type default))
     (uuid 142e9e92-5a90-4b44-918f-3d6105745325)
   )
+  (wire (pts (xy 57.15 71.12) (xy 64.77 71.12))
+    (stroke (width 0) (type default))
+    (uuid 15e9570f-c5e9-456c-b2d2-d9769894a772)
+  )
   (wire (pts (xy 63.5 147.32) (xy 63.5 158.115))
     (stroke (width 0) (type default))
     (uuid 169353f6-d704-43ed-a765-6ec27b13b56a)
@@ -1753,6 +1757,13 @@
     (uuid ceee1b40-9522-46e3-8d22-4e4b1cfee384)
   )
 
+  (global_label "FAN_PWM" (shape output) (at 57.15 71.12 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 1581340e-815c-40bb-ac02-912495ffe090)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 45.5961 71.12 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
   (global_label "LED_STAT_1" (shape output) (at 57.15 81.28 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1c93f4f0-511b-4ca6-9044-6af6e633afa5)
@@ -1909,7 +1920,7 @@
           (reference "#PWR026") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR030") (unit 1)
         )
       )
     )
@@ -1938,7 +1949,7 @@
           (reference "R15") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "R32") (unit 1)
+          (reference "R33") (unit 1)
         )
       )
     )
@@ -1966,7 +1977,7 @@
           (reference "#PWR028") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR031") (unit 1)
         )
       )
     )
@@ -1994,7 +2005,7 @@
           (reference "#PWR029") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR032") (unit 1)
         )
       )
     )
@@ -2003,7 +2014,7 @@
   (symbol (lib_id "NeuralTone:RPi_CM4_B") (at 199.39 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ab22444-1344-402c-89c7-5e7f757a51a0)
-    (property "Reference" "J8" (at 199.39 18.415 0)
+    (property "Reference" "J9" (at 199.39 18.415 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "DF40HC(3.0)-100DS" (at 199.39 20.955 0)
@@ -2121,7 +2132,7 @@
     (instances
       (project "NeuralTone"
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "J8") (unit 1)
+          (reference "J9") (unit 1)
         )
       )
     )
@@ -2149,7 +2160,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR027") (unit 1)
+          (reference "#PWR029") (unit 1)
         )
       )
     )
@@ -2178,7 +2189,7 @@
           (reference "R22") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "R31") (unit 1)
+          (reference "R32") (unit 1)
         )
       )
     )
@@ -2187,7 +2198,7 @@
   (symbol (lib_id "NeuralTone:RPi_CM4_A") (at 95.25 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d02a33cc-0433-4a6f-8a95-71a1ae2d2695)
-    (property "Reference" "J7" (at 95.25 18.415 0)
+    (property "Reference" "J8" (at 95.25 18.415 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "DF40HC(3.0)-100DS" (at 95.25 20.955 0)
@@ -2305,7 +2316,7 @@
     (instances
       (project "NeuralTone"
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "J7") (unit 1)
+          (reference "J8") (unit 1)
         )
       )
     )
