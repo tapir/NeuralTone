@@ -1100,7 +1100,6 @@
   (no_connect (at 168.91 119.38) (uuid 0b394a86-d8b1-4b8d-8aae-ca98de9d863f))
   (no_connect (at 125.73 35.56) (uuid 13479f27-8907-4f3b-9837-4159b4944d0e))
   (no_connect (at 125.73 139.7) (uuid 15aa6e2d-7172-4b4e-a372-0cea23dbbcf1))
-  (no_connect (at 64.77 71.12) (uuid 1bbb3379-71e0-43e6-b938-bafd14f66b65))
   (no_connect (at 168.91 45.72) (uuid 1e7264ed-362c-4194-b4da-05a3b4f6a348))
   (no_connect (at 64.77 30.48) (uuid 1ee7e98e-be09-413d-b69e-9762f5d46a2b))
   (no_connect (at 168.91 104.14) (uuid 22228251-9281-400c-9bf3-3ea769445fd7))
@@ -1920,7 +1919,7 @@
           (reference "#PWR026") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR031") (unit 1)
         )
       )
     )
@@ -1949,7 +1948,7 @@
           (reference "R15") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "R33") (unit 1)
+          (reference "R34") (unit 1)
         )
       )
     )
@@ -1977,7 +1976,7 @@
           (reference "#PWR028") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR031") (unit 1)
+          (reference "#PWR032") (unit 1)
         )
       )
     )
@@ -2005,7 +2004,7 @@
           (reference "#PWR029") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR032") (unit 1)
+          (reference "#PWR033") (unit 1)
         )
       )
     )
@@ -2160,7 +2159,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR030") (unit 1)
         )
       )
     )
@@ -2189,7 +2188,7 @@
           (reference "R22") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "R32") (unit 1)
+          (reference "R33") (unit 1)
         )
       )
     )
