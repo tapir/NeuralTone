@@ -552,7 +552,7 @@
     (pin "1" (uuid 3e925e2b-7d86-4493-82de-bb2ae73d7b53))
     (pin "2" (uuid 3d441e8a-0493-490e-822d-027121ffc4eb))
     (instances
-      (project "nt_audio_out_freq"
+      (project "nt_audio_out"
         (path "/4dd0498c-4c77-4591-ad31-e443b8a6e20e"
           (reference "C2") (unit 1)
         )
@@ -566,7 +566,7 @@
     (property "Reference" "R3" (at 191.77 75.565 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "16" (at 191.77 78.105 0)
+    (property "Value" "8" (at 191.77 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 187.452 76.835 90)
@@ -578,7 +578,7 @@
     (pin "1" (uuid cf134a22-c020-4ae8-aee9-2c38205dafae))
     (pin "2" (uuid d34ff288-bbb5-4e03-9353-5945b16ab97d))
     (instances
-      (project "nt_audio_out_freq"
+      (project "nt_audio_out"
         (path "/4dd0498c-4c77-4591-ad31-e443b8a6e20e"
           (reference "R3") (unit 1)
         )
@@ -616,7 +616,7 @@
     (pin "1" (uuid 8bdf917c-874c-4421-b2f7-ecd7d67f9b7f))
     (pin "2" (uuid 6b70c3c4-9abe-440d-8d58-0780d69ac580))
     (instances
-      (project "nt_audio_out_freq"
+      (project "nt_audio_out"
         (path "/4dd0498c-4c77-4591-ad31-e443b8a6e20e"
           (reference "D1") (unit 1)
         )
@@ -641,7 +641,7 @@
     )
     (pin "1" (uuid a1e131cf-c722-459b-a7cf-367483121582))
     (instances
-      (project "nt_audio_out_freq"
+      (project "nt_audio_out"
         (path "/4dd0498c-4c77-4591-ad31-e443b8a6e20e"
           (reference "#GND01") (unit 1)
         )
@@ -679,7 +679,7 @@
     (pin "1" (uuid bfcd53e0-fae6-4c0b-9fe8-e2c8342f718f))
     (pin "2" (uuid 48ac7110-4833-49b2-a283-f2a4365fc1fc))
     (instances
-      (project "nt_audio_out_freq"
+      (project "nt_audio_out"
         (path "/4dd0498c-4c77-4591-ad31-e443b8a6e20e"
           (reference "V1") (unit 1)
         )
@@ -714,7 +714,7 @@
     (pin "1" (uuid 028917cd-7975-4c69-988e-3a790b1b95ab))
     (pin "2" (uuid 7fa73c8b-b2b0-4556-92cc-95d218e7339d))
     (instances
-      (project "nt_audio_out_freq"
+      (project "nt_audio_out"
         (path "/4dd0498c-4c77-4591-ad31-e443b8a6e20e"
           (reference "C1") (unit 1)
         )
@@ -728,7 +728,7 @@
     (property "Reference" "C3" (at 107.569 59.69 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "470u" (at 107.569 62.23 90)
+    (property "Value" "2200u" (at 107.569 62.23 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 102.87 68.2752 0)
@@ -740,7 +740,7 @@
     (pin "1" (uuid dcadbb2e-fe76-4648-946b-0d695f5e22fe))
     (pin "2" (uuid 4f575431-3c6b-4a64-b33e-4753677a0dc9))
     (instances
-      (project "nt_audio_out_freq"
+      (project "nt_audio_out"
         (path "/4dd0498c-4c77-4591-ad31-e443b8a6e20e"
           (reference "C3") (unit 1)
         )
@@ -766,7 +766,7 @@
     (pin "1" (uuid 6e303f02-31c8-4c36-b0f5-a8e9c9cf75a8))
     (pin "2" (uuid 9adff707-08b8-4ee6-ad96-11230c9e68f1))
     (instances
-      (project "nt_audio_out_freq"
+      (project "nt_audio_out"
         (path "/4dd0498c-4c77-4591-ad31-e443b8a6e20e"
           (reference "R1") (unit 1)
         )
@@ -804,7 +804,7 @@
     (pin "1" (uuid ad3f7e16-1cd7-4bab-8140-fc3e20a08c1a))
     (pin "2" (uuid fc7d2490-22e2-40e5-82bc-e5b7c970660c))
     (instances
-      (project "nt_audio_out_freq"
+      (project "nt_audio_out"
         (path "/4dd0498c-4c77-4591-ad31-e443b8a6e20e"
           (reference "FB1") (unit 1)
         )
@@ -830,7 +830,7 @@
     (pin "1" (uuid 3cc94217-6dd6-4090-8fa5-5ed74b7dbd7f))
     (pin "2" (uuid 6c48c51a-4df0-468e-b12c-16d212df31ec))
     (instances
-      (project "nt_audio_out_freq"
+      (project "nt_audio_out"
         (path "/4dd0498c-4c77-4591-ad31-e443b8a6e20e"
           (reference "R2") (unit 1)
         )

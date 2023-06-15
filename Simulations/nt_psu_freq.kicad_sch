@@ -1055,7 +1055,7 @@
     (property "Reference" "V1" (at 140.335 106.6442 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "5" (at 140.335 109.1842 0)
+    (property "Value" "9" (at 140.335 109.1842 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 136.525 107.95 0)

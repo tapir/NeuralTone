@@ -506,7 +506,7 @@
     (property "Sim.Device" "V" (at 86.36 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Sim.Params" "pwl=\"0 0 10m 0 +10n 5\"" (at 90.17 99.0242 0)
+    (property "Sim.Params" "pwl=\"0 0 10m 0 +10n 9\"" (at 90.17 99.0242 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Sim.Type" "PWL" (at 86.36 96.52 0)
