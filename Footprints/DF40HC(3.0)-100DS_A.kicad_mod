@@ -1524,7 +1524,7 @@
     )
   )
   (model "${KIPRJMOD}/STEP/DF40HC(3.0)-100DS.step"
-    (offset (xyz 0 0 0))
+    (offset (xyz -0.36 0.55 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
