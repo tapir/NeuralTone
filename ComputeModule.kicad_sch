@@ -1944,7 +1944,7 @@
           (reference "#PWR026") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR054") (unit 1)
+          (reference "#PWR055") (unit 1)
         )
       )
     )
@@ -1959,7 +1959,7 @@
     (property "Value" "330" (at 60.071 95.377 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 55.245 96.52 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 55.245 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 55.245 96.52 0)
@@ -2001,7 +2001,7 @@
           (reference "#PWR028") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR055") (unit 1)
+          (reference "#PWR056") (unit 1)
         )
       )
     )
@@ -2029,7 +2029,7 @@
           (reference "#PWR029") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR056") (unit 1)
+          (reference "#PWR057") (unit 1)
         )
       )
     )
@@ -2184,7 +2184,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR053") (unit 1)
+          (reference "#PWR054") (unit 1)
         )
       )
     )
@@ -2199,7 +2199,7 @@
     (property "Value" "330" (at 60.071 92.837 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 55.245 93.98 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 55.245 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 55.245 93.98 0)
@@ -2368,7 +2368,7 @@
           (reference "#PWR038") (unit 1)
         )
         (path "/ac6c2b5b-00d5-42f9-9826-f03f3806195c/52e7f8b7-3f1d-466e-8d4d-f31624c34c31"
-          (reference "#PWR052") (unit 1)
+          (reference "#PWR053") (unit 1)
         )
       )
     )
